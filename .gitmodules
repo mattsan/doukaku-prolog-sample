@@ -1,0 +1,3 @@
+[submodule "doukaku-prolog"]
+	path = doukaku-prolog
+	url = git@github.com:mattsan/doukaku-prolog.git
